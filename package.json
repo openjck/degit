@@ -33,7 +33,7 @@
 	},
 	"homepage": "https://github.com/Rich-Harris/degit#readme",
 	"devDependencies": {
-		"@rollup/plugin-commonjs": "11.0.2",
+		"@rollup/plugin-commonjs": "11.1.0",
 		"@rollup/plugin-node-resolve": "7.1.1",
 		"chalk": "3.0.0",
 		"enquirer": "2.3.4",
